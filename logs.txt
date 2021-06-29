@@ -1,0 +1,32 @@
+Request method:	POST
+Request URI:	https://platform.emmiqa.com/startemmi-svc/api/login/token
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accessCode": "10590510151",
+    "dob": "01/01/2020"
+}
+HTTP/1.1 200 
+server: nginx
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/plain
+Strict-Transport-Security: max-age=300; includeSubDomains
+Date: Thu, 01 Apr 2021 13:40:05 GMT
+Keep-Alive: timeout=60
+Expires: 0
+X-XSS-Protection: 1; mode=block
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Connection: keep-alive
+X-Frame-Options: DENY
+Content-Length: 911
+
+eyJraWQiOiIxLnFhLnd3dy5lbW1pc29sdXRpb25zLmNvbSIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJhdWQiOiJzdGFydGVtbWkiLCJzdWIiOiI2REYyM0QyRC05OTE1LTQwQ0EtQTMyQi1COEIwNzIyMkQ3QUMiLCJjb2RlIjoiZmUxYTA1ODItZmY5Ny00NTc2LTk1OWQtODNlNDUwOTcxZjQ1LmlkcCIsImF1dGhfdGltZSI6MCwiaXNzIjoiaHR0cHM6XC9cL3BsYXRmb3JtLmVtbWlxYS5jb20iLCJhdXRoZW50aWNhdGlvblN0YXRlIjoie1wic3ViXCI6XCI2REYyM0QyRC05OTE1LTQwQ0EtQTMyQi1COEIwNzIyMkQ3QUNcIixcInBhdGllbnRfaWRcIjpcIjZERjIzRDJELTk5MTUtNDBDQS1BMzJCLUI4QjA3MjIyRDdBQ1wiLFwiYWNjZXNzX2NvZGVcIjpcIjEwNTkwNTEwMTUxXCJ9IiwiZXhwIjoxNjE3Mjg4MDA1LCJpYXQiOjE2MTcyODQ0MDV9.cihovOustMGofacYpX3LxbrBzifDY2SdX33yoJs27MWZBtpCnyLaRs1AWBtdIIKFeBncuXlhL71Q4X94bBPFFGxkyh5rl_8xNh7wgk9u6rwwj_HorNQl5PCoXCJXlrR0SB-hLV55M_aX69hRAMlPCPVfmOk1Fbs49kX4XAvhyfkuRXdaQ5e3_K29dFTzueif7vftrI2LxqDB9h1WG4ajXVDIQ0oOAAvFF7Ycqyet7oohrWvoTDdOkP8lR5I3BtDF8kGeBe_i9imYkkAl09tYhVKFM2bFQlPOTPup72tBEEP65sC8gCPDl7KaRiD0mQvL_jeMOaWgMwj_3p6OnYvQ7A
